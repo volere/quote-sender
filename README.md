@@ -1,6 +1,8 @@
 # Stripe Quote Sender
 
-This code adds some functionality to the Stripe Quotes ecosystem
+This code adds some functionality to the Stripe Quotes ecosystem.
+
+This branch is for converting the routes from the pages router to the app router system.
 
 ## Getting Started
 
